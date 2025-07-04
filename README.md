@@ -41,6 +41,10 @@ https://github.com/dasepli/CodeIE<br>
 - PromptNER : Prompting For Named Entity Recognition<br>
   2023<br>
   https://arxiv.org/pdf/2305.15444v2.pdf<br>
+- AgriCHN: A Comprehensive Cross-domain Resource for Chinese Agricultural Named Entity Recognition<br>
+一个新的数据集。<br>
+2025<br>
+https://arxiv.org/pdf/2506.17578<br>
 
 
 #### 命名实体识别综述（中文）
